@@ -34,6 +34,8 @@ echo "It will create two new files within the init.d folder"
 echo "=========================================================="
 echo "And it will restart your computer at the end!"
 echo "=========================================================="
+echo "Made by Ging3r Carr0t!"
+echo "=========================================================="
 
 while true; do
     read -p "Do you wish to install this? " yn
