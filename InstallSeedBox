@@ -2,7 +2,7 @@
 # WebUI is 8112 i.e. address.com:8112
 # Default Password is: deluge
 # Enjoy :) 
-#By MrJSec
+# By MrJSec
 
 if [[ $EUID -ne 0 ]]; then
 	echo "This script must be run as root"
